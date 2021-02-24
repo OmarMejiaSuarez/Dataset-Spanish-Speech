@@ -1,0 +1,150 @@
+com_03349_00001764679	El jeroglífico tiene un pez amarillo
+com_03349_00030288521	La calle está llena de hoyos
+com_03349_00032018228	Necesito tu ayuda para una tarea de la escuela.
+com_03349_00036533464	Quiero comprar un regalo significativo.
+com_03349_00061350810	Comprala y que llegue a mi domicilio, que yo le quiero dar el regalo.
+com_03349_00066316945	¿Cuánto cuesta este vestido francés?
+com_03349_00074287293	¿Qué es lo más importante de este mundo?
+com_03349_00078873149	¿Dónde nacio el director González Iñárritu?
+com_03349_00116611031	Las temáticas de la últimas exposiciones en el museo han sido poco variadas.
+com_03349_00125212771	Me encanta la música clásica de Vivaldi.
+com_03349_00137460021	¿De dónde es el director González Iñárritu?
+com_03349_00178084327	La obscuridad del pozo era obscena por naturaleza
+com_03349_00215617072	Lo importante de este mundo es dejarse llevar por los años.
+com_03349_00219013606	Tienes razón es mucho mejor andar en bici.
+com_03349_00283691971	¿Me puedes buscar tres máquinas de escribir diferentes?
+com_03349_00294579167	La resequedad sucede comúnmente en épocas de frío.
+com_03349_00299901851	Los cabecillas de la banda huyeron a caballo
+com_03349_00312590942	¿Me puedes buscar tres imagenes diferentes?
+com_03349_00320405181	¿Quieres que te sirva un café?
+com_03349_00326030828	No se que es lo más importante de este mundo.
+com_03349_00335818362	Ando un poco pensativo.
+com_03349_00369733152	Te recomiendo que uses moto o bicicleta.
+com_03349_00388084155	Aquí encontré un sitio donde puedes leer sobre las diferencias entre los géneros del teatro.
+com_03349_00395375502	Quiero que la bolsa se pueda usar de pañalera, pero que también la pueda usar para salir.
+com_03349_00414924326	También necesitamos una imagen de un dinosaurio para la computadora.
+com_03349_00415272936	No supo descifrar las huellas
+com_03349_00415457216	Puedes moverte muy fácil con la bici, desde distancias cortas hasta largas.
+com_03349_00423405254	¿Cómo te fue el día de hoy?
+com_03349_00455164343	¿Cuánto cuesta ese traje de baño español?
+com_03349_00483420174	¿Tienes algún otros requisitos?
+com_03349_00488120963	Según la revista Proceso el mejor álbum del año es el de Maluma.
+com_03349_00488135677	Las teclas de la máquina de escribir necesitan estar muy desgastadas para la filmación
+com_03349_00503313664	La tienda de jabones y perfumes finos tiene regalos para el día de las madres.
+com_03349_00512902158	El problema es que no tenemos computadora para la escena ¿Nos puedes ayudar?
+com_03349_00514002847	La pijama de rayas es azul
+com_03349_00521910650	Quiero que sea de una buena marca pero que no cueste más de ocho mil pesos.
+com_03349_00523687612	Tiene el tiempo contado
+com_03349_00528660483	No me duele la espalda si me despierto temprano.
+com_03349_00553796605	Te lo puedo mandar a tu correo para que lo entiendas mejor.
+com_03349_00554109670	Tocar el xilófono es mi hobby favorito
+com_03349_00566853583	Está muy cansado
+com_03349_00575481758	Me parece muy bien.
+com_03349_00595971135	Ya casi es el día de las madres.
+com_03349_00600829385	Es muy fácil usar las bicis de la ciudad, con tu tarjeta de crédito rentas tu bici.
+com_03349_00607547431	No te entiendo nada
+com_03349_00618840322	Ando buscando los libros más famosos del dos mil dieciséis.
+com_03349_00639155208	La actriz Angélica María ganó un premio por su actuación en la nueva película de Iñárritu.
+com_03349_00656083514	Las compañías de teléfono ganan muchísimo dinero.
+com_03349_00681064513	¿Me puedes buscar tres computadoras diferentes?
+com_03349_00684028246	El Llano en Llamas es un clásico de Juan Rulfo
+com_03349_00700574770	Las tejas rojas no son de México, son de Texas
+com_03349_00700601152	Te recomiendo que mejor te tomes un té, la cafeína te puede poner más nervioso.
+com_03349_00707369132	Necesitamos la computadora lo más rápido posible.
+com_03349_00709663775	Ayer estuve en en museo de Arte Moderno, y vi una exposición buenísima.
+com_03349_00790456533	La película me llegó al corazón
+com_03349_00807598741	Los zapatos se dañaron por la lluvia de ayer
+com_03349_00811989560	Creo que tienes una condición relacionada con la mala nutrición.
+com_03349_00816265336	¿En qué calle está la casa?
+com_03349_00826655773	Encontré una cosa rarísima en internet.
+com_03349_00841808573	Los niños tienen mucha imaginación
+com_03349_00853030160	Las motos no son muy seguras.
+com_03349_00855933385	La ciudad es bellísima y tan alegre
+com_03349_00858147172	El drama se refiere a todo el teatro y no solo al género de teatro serio.
+com_03349_00864937857	Sí, esa es la bolsa que quiero
+com_03349_00868914115	Últimamente he visto muchas bicicletas en la calle.
+com_03349_00894877493	La pronunciación del francés es difícil
+com_03349_00921742707	Necesito una máquina de escribir con teclas suaves.
+com_03349_00923954880	Encontré un artículo escrito por un intelectual muy importante sobre el teatro.
+com_03349_00940094798	Los corazones de pollo son una delicia
+com_03349_00942541205	La ciudad ya tiene más de cien kilómetros de ciclovías que van de norte a sur.
+com_03349_00947229065	Estamos en la parte de la escena donde la actriz está usando su computadora.
+com_03349_00947286758	Se me fue el internet.
+com_03349_00957889313	¿Cuánto cuesta esa bolsa italiana?
+com_03349_00982849191	¿Me puedes decir qué máquina de escribir debo comprar?
+com_03349_00997035186	El único tipo de música que me gusta es el jazz.
+com_03349_01003792162	La temática de las películas del director han dado un giro dramático.
+com_03349_01011273068	¿Me puedes recomendar una compañía de teléfono que funcione bien en todo el país?
+com_03349_01022176786	El único tipo de música que me gusta es la clásica.
+com_03349_01030836792	Necesitamos la máquina de escribir lo más rápido posible.
+com_03349_01060304344	Mi dolor de espalda empeora cuando me despierto tarde.
+com_03349_01080850361	Mi conexión de internet es muy buena.
+com_03349_01085311121	No, esa no es la bolsa que quiero.
+com_03349_01089714460	Las teclas de la computadora necesitan estar desgastadas para la filmación
+com_03349_01109829737	Últimamente he andado muy acelerado.
+com_03349_01111064441	Quiero un jabón con esencia de flores.
+com_03349_01118157828	¿Hay clases para aprender a andar en bicicleta?
+com_03349_01143832722	¿Me ayudas a buscar una tienda donde pueda comprarle un regalo a mi esposo?
+com_03349_01146099126	No hay mejor regalo que un buen libro.
+com_03349_01146886303	Ya me llego el internet.
+com_03349_01180854436	Cuesta siete mil pesos, pero no cuesta el envío.
+com_03349_01189026185	El caballo está amarrado
+com_03349_01249803975	Ando buscando las canciones más famosas del dos mil dieciséis.
+com_03349_01252995803	¿Me ayudas a buscar una tienda donde pueda comprarle un regalo a mi mamá?
+com_03349_01260617130	Pero tienes que saber usar una bici muy bien. ¿O no?
+com_03349_01263437106	Necesitamos encontrar una computadora roja para ésta tarde.
+com_03349_01265972275	¿Te gustan los chocolates?
+com_03349_01303717992	No entiendo la diferencia entre los diferentes géneros teatrales.
+com_03349_01329774376	¿Me ayudas a buscar una tienda donde pueda comprarle un regalo a mi abuela?
+com_03349_01336510100	Los hamster comen zanahorias
+com_03349_01377616409	Una máquina de escribir cuesta como cuatro mil pesos.
+com_03349_01392930100	Las máquinas de escribir antiguas pueden ser muy caras.
+com_03349_01422690474	Quiero un jabón para relajarme.
+com_03349_01445295156	El director González Iñárritu es un gran director.
+com_03349_01447716411	Quiero comprar un regalo incomodo.
+com_03349_01465489033	La granizada destruyó toda la plantación de lechuga
+com_03349_01468173400	¿Quién subió el mejor video?
+com_03349_01479129263	Búscame clases para aprender a andar en bici.
+com_03349_01494097273	El tráfico está terrible es imposible llegar a tiempo.
+com_03349_01510054374	¿Cuál es la definición de una tragicomedia?
+com_03349_01521555795	El único tipo de música que me gusta es el pop.
+com_03349_01549247499	El barco encalló en los arrecifes
+com_03349_01553132992	¿Cuál es la definición de una obra de teatro?
+com_03349_01560730696	Ayer fui al cine y ví una pésima película.
+com_03349_01579484304	Tengo dolor de cabeza.
+com_03349_01591337048	Es muy difícil encontrarle un regalo a mi mamá, sus gustos son muy peculiares.
+com_03349_01605278396	¿Cómo te fue ayer?
+com_03349_01605919503	No me acuerdo como se llamaba la exposición que vi en el museo.
+com_03349_01615022401	¿Me puedes decir qué teléfono debo comprar?
+com_03349_01615087849	Ya que te inscribes te envían una tarjeta especial y la usas como si fuera tu tarjeta del metro.
+com_03349_01641365583	¿Cuál es la diferencia entre los términos, obra y pieza en el teatro?
+com_03349_01642004628	Según las estadísticas del gobierno, hay más accidentes de ciclistas que de peatones.
+com_03349_01644457096	Ayer llovió mucho, y llegue tarde a mi reunión
+com_03349_01655206130	Comprala y que le llegue a su domicilio, que es un regalo sorpresa.
+com_03349_01667023636	En cada estación de bicicleta insertas tu tarjeta y te indica la bicicleta que puedes usar.
+com_03349_01687928384	La mermelada de mora es muy fácil de hacer
+com_03349_01696160637	Mi conexión de internet es muy mala.
+com_03349_01703302638	Y sabes, no necesitas comprar una bicicleta, puedes usar las de la ciudad.
+com_03349_01717002950	Me parece muy mal.
+com_03349_01779903052	Últimamente he visto muchas bicicletas rojas.
+com_03349_01818770164	Si es importante que te sientas cómodo en una bici.
+com_03349_01818854969	¿Cuáles son las principales diferencias?
+com_03349_01825918067	Tienes que comer mejor y tomarte vitaminas.
+com_03349_01832158292	¿Quieres que te sirva un té?
+com_03349_01874001536	Tengo un dolor impresionante de espalda.
+com_03349_01905978622	Que sea una bolsa grande, que ya tiene dos hijos.
+com_03349_01914808746	Me duele mucho la cabeza cuando hago ejercicio.
+com_03349_01929371094	Los sandwich están fríos
+com_03349_01940162138	¿Cuál es la definición del drama?
+com_03349_01949076436	Hay más de setenta estaciones en el centro de la ciudad.
+com_03349_01971113886	Ando haciendo una tarea de la universidad.
+com_03349_02015752225	No me acuerdo como se llama la película que vi en el cine.
+com_03349_02016570815	Por las tardes se escucha música en la Plaza.
+com_03349_02023530914	Quiero un jabón que hidrate mi piel.
+com_03349_02035949486	Encontré una bolsa italiana que se puede usar de pañalera y para salir.
+com_03349_02041756502	Necesito que me ayudes con mi tarea.
+com_03349_02045415180	¿Y son muy estrictos con las reglas?
+com_03349_02054918200	Últimamente he visto muy pocas bicicletas en la ciudad.
+com_03349_02075454809	Hay muchas tiendas de ropa en el centro.
+com_03349_02077391271	La grabación ya está por terminar.
+com_03349_02079430333	Ando buscando las recetas de comida más populares del dos mil dieciséis.

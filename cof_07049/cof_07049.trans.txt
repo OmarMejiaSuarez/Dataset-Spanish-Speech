@@ -1,0 +1,149 @@
+cof_07049_00012912857	¿Qué fue lo que hizo el presidente cuando regresó de su viaje?
+cof_07049_00016141520	Me gustaría ir a algún lugar con opciones muy variadas de comida.
+cof_07049_00022067347	¿Tienes alguna preferencia de precio?
+cof_07049_00074135686	No te entiendo nada
+cof_07049_00075626207	¿Y tienes algo en mente en cuestión al color o tamaño?
+cof_07049_00095784590	Te recomiendo la crema que se llama Solución X, es una nueva loción médica.
+cof_07049_00119425685	¿Qué necesito para renovar mi visa de turista?
+cof_07049_00122674344	¿Sabes quién fue Pablo Picasso?
+cof_07049_00132400311	La ciudad es bellísima y tan alegre
+cof_07049_00132525124	La pronunciación del francés es difícil
+cof_07049_00143933306	Solo quiero que busques navajas que sean suizas.
+cof_07049_00159037533	¿Qué otros programas hay, para más temprano?
+cof_07049_00178795310	Quiero saber alguna información curiosa sobre la reina de Inglaterra.
+cof_07049_00199570597	¿Y a qué hora es ese programa de radio?
+cof_07049_00204332274	La nave encalló en los arrecifes
+cof_07049_00208888234	Mandame una lista de los mejores canales.
+cof_07049_00226444470	Los zapatos se estropearon con la lluvia torrencial de ayer
+cof_07049_00232268517	Parece que necesitas una crema extra hidratante.
+cof_07049_00247793472	Los niños quieren comer dulces pero yo no se que darles.
+cof_07049_00259319824	¿Cuáles son los Museos más importantes dónde tienen arte de Clemente Orozco?
+cof_07049_00263118677	Necesito decirte algo.
+cof_07049_00275102341	Voy a invitar a todos los de mi clase de filosofía.
+cof_07049_00285176333	A mis hijos les gustan las cosas de acción.
+cof_07049_00309991733	Las chicas superpoderosas es un programa muy popular y sale todas las tardes de dos a cinco.
+cof_07049_00329062787	Los hamsters comen zanahorias
+cof_07049_00335539425	Recomiéndame una escuela de cine.
+cof_07049_00335892800	¿Cuáles son las noticias más recientes de las elecciones Inglesas?
+cof_07049_00369446915	Mandame un menú de los canales que recomiendas.
+cof_07049_00394206052	Tiene el tiempo contado
+cof_07049_00395245769	No me importa el precio solo me importa que sea un lugar fácil de llegar.
+cof_07049_00397233278	Creo que necesitas una cita con el doctor.
+cof_07049_00421252159	Si te duele mucho la cabeza puedes tomarte un té de manzanilla.
+cof_07049_00430123830	¿Qué fue lo que hizo el presidente cuando perdió su partido?
+cof_07049_00441410947	Quiero festejar a lo grande.
+cof_07049_00443878117	¿Qué dice el titular de hoy?
+cof_07049_00446093005	Te voy a mandar el menú de comida a tu correo electrónico.
+cof_07049_00449968263	¿De qué edades son tus hijos Alex?
+cof_07049_00453256361	¿Qué nos recomiendas para ver en la televisión?
+cof_07049_00462213661	Mandame una lista de las mejores películas.
+cof_07049_00498843064	Si te duele mucho la cabeza puedes tomarte una aspirina.
+cof_07049_00500489438	¿Cuántas personas vas a invitar de día de campo?
+cof_07049_00510013874	No se si me conviene comprar un carro nuevo o uno usado.
+cof_07049_00517088235	¿A Qué restaurante me recomiendas llevar a mis maestros?
+cof_07049_00518556088	¿Cuáles son los Museos más importantes dónde tienen arte de Frida Kahlo?
+cof_07049_00528024998	¿Qué tal Alex, cómo están los niños?
+cof_07049_00561117573	¿Con quién estaba casada Frida Kahlo?
+cof_07049_00594866988	La mermelada de zarzamora es muy fácil de hacer
+cof_07049_00618745150	Quiero saber alguna información curiosa sobre el presidente Enrique Peña Nieto.
+cof_07049_00629007605	Te recomiendo descansar e hidratarte muy bien hasta tu cita con el doctor.
+cof_07049_00630552010	¿Te gustan los chocolates?
+cof_07049_00645257110	Oye, quiero invitar a unos profesores a cenar y los quiero impresionar.
+cof_07049_00645639599	Me siento muy mareado y tengo mucho dolor.
+cof_07049_00663937993	Necesito tu ayuda urgente.
+cof_07049_00684232234	Necesito que me hagas un favor.
+cof_07049_00690047980	¿Cuántas personas vas a invitar al cine?
+cof_07049_00692932825	Los sandwiches están fríos
+cof_07049_00693198796	Me interesa comprar una camisa negra.
+cof_07049_00718435060	¿Sabes quién fue Frida Kahlo?
+cof_07049_00725864969	¿Qué fue lo hizo el presidente Trump cuando llegó a Puerto Rico?
+cof_07049_00726890140	No quiero darles a los niños demasiada azúcar.
+cof_07049_00730802351	¿Qué está sucediendo en la política de Estados Unidos?
+cof_07049_00740178642	Es muy importante cuidar tu piel cuando uno va a la playa.
+cof_07049_00742924627	Los cabecillas de la banda huyeron a caballo
+cof_07049_00777019395	Quiero que la bolsa sea su regalo de cumpleaños.
+cof_07049_00799388255	Para esas edades tengo un programa muy recomendado que se llama El Increíble Mundo de la Magia.
+cof_07049_00857715361	¿Cuánto dinero quieres en el regalo de cumpleaños?
+cof_07049_00882091681	Por las tardes se escucha música en la Plaza.
+cof_07049_00889307758	Oye, me ayudas a buscar una bolsa de dama que mi amiga necesita una nueva.
+cof_07049_00908166471	¿Has pensado en darles una yogurt con frutas?
+cof_07049_00931695058	Voy a invitar a mis cinco profesores y dos compañeros de la universidad.
+cof_07049_00947381535	Creo que necesitas comer mejor.
+cof_07049_00956146788	¿Quién subió el mejor video?
+cof_07049_00959539140	La pijama de rayas es azul
+cof_07049_00968126375	¿En qué otras películas sale Diego Luna?
+cof_07049_00987221770	¿En qué calle está la casa?
+cof_07049_01003775927	Quiero que los niños vean algo que sea más adecuado a su edad y no tan violento.
+cof_07049_01012898718	Los corazones de pollo son una delicia
+cof_07049_01028058242	¿Qué otras películas tratan sobre el arte del siglo veinte en México?
+cof_07049_01028204176	Me han hablado muy bien de Toyota. ¿Sabes cuáles son sus beneficios?
+cof_07049_01044718729	No supo descifrar las huellas
+cof_07049_01083828376	Frida fue una gran artista de mediados del siglo veinte en México.
+cof_07049_01090419320	Corea del Norte logró lanzar un misil a una distancia de quinientos kilómetros por primera vez.
+cof_07049_01094838224	¿Qué necesito para aplicar para una licencia de manejar?
+cof_07049_01100174073	El caballo está amarrado
+cof_07049_01112156686	¿Cuántas personas vas a invitar a tu casa?
+cof_07049_01149426406	Creo que necesitas hidratarte mejor.
+cof_07049_01177719753	¿Y tienes alguna preferencia de comida?
+cof_07049_01206361658	Las tejas rojas del tejado no son de México, son de Texas
+cof_07049_01243286064	¿Cuánto dinero quieres gastar en la bolsa?
+cof_07049_01244483376	¿Cuánto dinero quieres gastar en tu vacación?
+cof_07049_01260294150	¿Qué canales me recomiendas para ver las noticias?
+cof_07049_01285334669	¿Qué está sucediendo en la política de Inglaterra?
+cof_07049_01300193403	Salma Hayek empezó como actriz en películas Mexicanas antes de llegar a Hollywood.
+cof_07049_01338462232	Recomiéndame una buena película de cine de arte.
+cof_07049_01344694485	¿Y tienes algo en mente en cuestión de precio?
+cof_07049_01351070596	¿Qué dice el titular del Lunes pasado?
+cof_07049_01362765265	Solo necesitas enviar la solicitud con tus calificaciones y diploma de tu escuela anterior.
+cof_07049_01365721184	¿Qué necesito para aplicar para una tarjeta de crédito?
+cof_07049_01392932352	Acabo de ver unas estadísticas impactantes
+cof_07049_01426932793	Quiero saber alguna información curiosa sobre Frida Kahlo.
+cof_07049_01427072915	¿Cuáles son los Museos internacionales tienen más arte Mexicano?
+cof_07049_01429416681	Me interesa una bolsa color azul.
+cof_07049_01434041993	Quiero darles a los niños algo más saludable.
+cof_07049_01449014826	¿Sabes porqué se considera importante la estatua de la libertad?
+cof_07049_01495383977	No conozco bien los gustos de mis invitados, así que quiero que tengan muchas opciones.
+cof_07049_01495593145	Oye, me ayudas a buscar una compañía de mudanzas que necesito contratar una.
+cof_07049_01495694487	Te recomiendo no preocuparte por tu cita con el doctor.
+cof_07049_01517658398	Quiero que me ayudes a buscarle un regalo.
+cof_07049_01524363437	¿Me puedes ayudar a buscar un coche nuevo?
+cof_07049_01551619151	Quiero cambiar mi coche porque tiene muchos problemas.
+cof_07049_01556001163	Quiero festejar el año nuevo con mi familia.
+cof_07049_01576122090	¿Qué otros programas hay, pero más tarde?
+cof_07049_01580669912	Me interesa comprar un vestido de boda.
+cof_07049_01603875126	El Llano en Llamas es un clásico de Juan Rulfo
+cof_07049_01618911792	Los niños quieren ver la tele pero no se que puedan ver a su edad.
+cof_07049_01619137687	Busca bolsas que cuesten entre tres mil y cinco mil pesos.
+cof_07049_01624438204	El jeroglífico tiene un pez amarillo
+cof_07049_01637730941	Me interesa una bolsa de buena marca.
+cof_07049_01654084165	La película me llegó al corazón
+cof_07049_01664531289	¿Cuáles son las noticias más recientes del terremoto?
+cof_07049_01710778006	¿Cuáles son las noticias más recientes del fuego forestal?
+cof_07049_01715092858	¿Qué necesito para aplicar para la escuela de cine?
+cof_07049_01751573203	Recomiéndame un buen restaurante de comida japonesa.
+cof_07049_01777522194	¿Cuánto dinero quieres gastar en tu boda?
+cof_07049_01783243859	Solo quiero invitar a mi familia.
+cof_07049_01793500861	Busca dónde puedo comprar vino espumoso italiano a buen precio.
+cof_07049_01802967998	Tocar el xilófono es mi hobby favorito
+cof_07049_01837393219	Te voy a mandar el menú de la cena a tu correo electrónico.
+cof_07049_01857469520	Los niños tienen mucha imaginación
+cof_07049_01884766714	¿Tienes alguna preferencia de ambiente?
+cof_07049_01892085034	La oscuridad del pozo era obscena por naturaleza
+cof_07049_01908458477	Oye, me ayudas a buscar una navaja suiza, que mi amigo quiere una para su cumpleaños.
+cof_07049_01910012143	¿Cuántas personas vas a invitar a la cena?
+cof_07049_01911504171	Usa mi tarjeta American Express para pagar el vestido
+cof_07049_01938449319	Aquí puedo ver que tu carro ha necesitado una grúa más de tres veces este año.
+cof_07049_01974539683	Ayer llovió mucho, y llegue tarde a mi reunión
+cof_07049_01985132726	La calle está llena de hoyos
+cof_07049_01985333482	Recomiéndame una tienda de ropa moderna.
+cof_07049_02003227126	Al parecer Trump y la alcaldesa de Puerto Rico se enfrentaron en Twitter.
+cof_07049_02007733716	¿Cuáles son las principales diferencias?
+cof_07049_02027160109	¿Es cierto que la popularidad del presidente se está decayendo?
+cof_07049_02043696304	Quiero que sea su regalo sorpresa.
+cof_07049_02049405890	Está muy cansado
+cof_07049_02050857799	Busca regalos que cuesten entre dos mil y tres mil pesos.
+cof_07049_02051871761	Frida Kahlo estaba casada con el artista Mexicano llamado Diego Rivera.
+cof_07049_02056708214	El presidente ha tenido muchas críticas en las noticias por su visita a Puerto Rico.
+cof_07049_02061585052	Te voy a mandar el menú de canales a tu correo electrónico.
+cof_07049_02083536813	¿Qué está sucediendo en la política de España?
+cof_07049_02139543946	La granizada destruyó toda la plantación de lechuga

@@ -1,0 +1,149 @@
+com_02436_00011077936	Recomiéndame una buena película de cine de arte.
+com_02436_00013760741	La pronunciación del francés es difícil
+com_02436_00019047620	¿Te gustan los chocolates?
+com_02436_00046431173	La obscuridad del pozo era obscena por naturaleza
+com_02436_00046638927	Las chicas superpoderosas es un programa muy popular y sale todas las tardes de dos a cinco.
+com_02436_00068467962	Te voy a mandar el menú de la cena a tu correo electrónico.
+com_02436_00068590775	¿Qué necesito para aplicar para una licencia de manejar?
+com_02436_00079078497	No te entiendo nada
+com_02436_00091689478	Me gustaría ir a un lugar con opciones muy avanzadas de comida.
+com_02436_00093212476	No supo descifrar las huellas
+com_02436_00112263685	No conozco bien los gustos de mis invitados, así que quiero que tengan muchas opciones.
+com_02436_00115278461	Según las noticias de CNN en Español la popularidad del Señor Donald Trump ha bajado dramáticamente.
+com_02436_00151535009	Me interesa comprar un vestido de boda.
+com_02436_00171461051	¿Cuáles son las noticias más recientes de las elecciones Inglesas?
+com_02436_00180487491	Tocar el xilófono es mi hobby favorito
+com_02436_00188944275	Si te duele mucho la cabeza puedes tomarte una aspirina.
+com_02436_00194543348	Quiero festejar a lo grande.
+com_02436_00207228206	Busca dónde puedo comprar vino espumoso italiano a buen precio.
+com_02436_00223863081	¿Tienes alguna preferencia de precio?
+com_02436_00254792024	¿Qué está sucediendo en la política de España?
+com_02436_00259991410	¿Y a qué hora es ese programa de radio?
+com_02436_00297496201	¿Tienes alguna preferencia de ambiente?
+com_02436_00303697410	La granizada destruyó toda la plantación de lechuga
+com_02436_00308473326	Te recomiendo no preocuparte por tu cita con el doctor.
+com_02436_00321718614	Oye, me ayudas a buscar una navaja suiza, que mi amigo quiere una para su cumpleaños.
+com_02436_00330898967	¿Qué otros programas hay, pero más tarde?
+com_02436_00351043616	Recomiéndame una tienda de ropa moderna.
+com_02436_00351207323	Recomiéndame un buen restaurante de comida japonesa.
+com_02436_00356358673	Te recomiendo la crema que se llama Solución X, es una nueva loción médica.
+com_02436_00394264630	No se si me conviene comprar un carro nuevo o uno usado.
+com_02436_00409323700	Frida fue una gran artista a mediados del siglo veinte en México.
+com_02436_00438839528	No quiero darles a los niños demasiada azúcar.
+com_02436_00462081570	Solo necesitas enviar la solicitud con tus calificaciones y diploma de tu escuela anterior.
+com_02436_00478711960	Quiero festejar el año nuevo con mi familia.
+com_02436_00500599938	¿A qué restaurante me recomiendas llevar a mis maestros?
+com_02436_00522817179	Quiero que me ayudes a buscarle un regalo.
+com_02436_00523764655	El caballo está amarrado
+com_02436_00535023891	Te voy a mandar el menú de canales a tu correo electrónico.
+com_02436_00571564358	¿Qué otros programas hay, para más temprano?
+com_02436_00579543219	Me interesa comprar una camisa negra.
+com_02436_00595713607	¿Qué nos recomiendas ver en la televisión?
+com_02436_00614539460	Está muy cansado
+com_02436_00633194472	Las tejas rojas del tejado no son de México, son de Texas
+com_02436_00633834600	La ciudad es bellísima y tan alegre
+com_02436_00669944333	Creo que necesitas una cita con el doctor.
+com_02436_00707819896	¿Qué necesito para aplicar para una tarjeta de crédito?
+com_02436_00742227539	Los niños quieren comer dulces pero yo no se que darles.
+com_02436_00752137329	¿Qué otras películas abordan el arte del siglo veinte en México?
+com_02436_00754482482	Ayer llovió mucho, y llegue tarde a mi reunión
+com_02436_00765293347	Los zapatos se estropearon con la lluvia torrencial de ayer
+com_02436_00772446157	¿Y tienes algo en mente en cuestión al color o tamaño?
+com_02436_00780748072	¿Cuántas personas vas a invitar a la cena?
+com_02436_00797152815	Los sandwiches están fríos
+com_02436_00826084218	Busca regalos que cuesten entre dos mil y tres mil pesos.
+com_02436_00832191156	¿Cuántas personas vas a invitar al cine?
+com_02436_00874481332	Me interesa una bolsa color azul.
+com_02436_00878276734	¿En qué calle está la casa?
+com_02436_00889966741	¿En qué otras películas sale Diego Luna?
+com_02436_00894265909	Me han hablado muy bien de Toyota. ¿Sabes cuáles son sus beneficios?
+com_02436_00904567638	Creo que necesitas comer mejor.
+com_02436_00920242379	Parece que necesitas una crema extra hidratante.
+com_02436_00954839677	Para esas edades tengo un programa muy recomendado que se llama El Increíble Mundo de la Magia.
+com_02436_00958421787	La calle está llena de hoyos
+com_02436_00968474391	¿Qué necesito para aplicar para la escuela de cine?
+com_02436_00968809080	Te voy a mandar el menú de comida a tu correo electrónico.
+com_02436_00974392216	Voy a invitar a todos los de mi clase de filosofía.
+com_02436_00997020362	Corea del Norte logró lanzar un misil a una distancia de quinientos kilómetros por primera vez.
+com_02436_00997261090	Es muy importante cuidar de tu piel cuando uno va a la playa.
+com_02436_01000946669	¿Qué está sucediendo en la política de Estados Unidos?
+com_02436_01004195636	¿Cuáles son las principales diferencias?
+com_02436_01014686060	Frida Kahlo estaba casada con el artista Mexicano llamado Diego Rivera.
+com_02436_01025943319	Los corazones de pollo son una delicia
+com_02436_01092163743	Quiero saber alguna información curiosa sobre el presidente Enrique Peña Nieto.
+com_02436_01095621637	Te recomiendo descansar e hidratarte muy bien hasta tu cita con el doctor.
+com_02436_01105920721	¿Qué dice el titular de hoy?
+com_02436_01113680738	¿Qué fue lo que hizo el presidente cuando perdió su partido?
+com_02436_01129072779	Quiero saber alguna información curiosa sobre Frida Kahlo.
+com_02436_01152764721	¿Cuánto dinero quieres gastar en la bolsa?
+com_02436_01169712070	¿Qué dice el titular del Lunes pasado?
+com_02436_01215626465	Mandame una lista de las mejores películas.
+com_02436_01216847713	¿Qué fue lo que hizo el presidente cuando regresó de su viaje?
+com_02436_01216968319	Usa mi tarjeta American Express para pagar el vestido
+com_02436_01231823016	¿Con quién estaba casada Frida Kahlo?
+com_02436_01237664183	La mermelada de zarzamora es muy fácil de hacer
+com_02436_01242759793	Recomiéndame una escuela de cine.
+com_02436_01305504009	No importa el precio solo me importa que sea un lugar fácil de llegar.
+com_02436_01314210920	El presidente ha tenido muchas críticas en las noticias por su visita a Puerto Rico.
+com_02436_01315628103	Oye, me ayudas a buscar una bolsa de dama que mi amiga necesita una nueva.
+com_02436_01316073308	¿Qué necesito para renovar mi visa de turista?
+com_02436_01317076098	Los niños quieren ver la tele pero no se que puedan ver a su edad.
+com_02436_01330501841	Quiero que la bolsa sea su regalo de cumpleaños.
+com_02436_01338072514	Quiero saber alguna información curiosa sobre la reina de Inglaterra.
+com_02436_01367002050	Solo quiero que busques navajas que sean suizas.
+com_02436_01382708024	Creo que necesitas hidratarte mejor.
+com_02436_01418335833	Salma Hayek empezó como actriz en películas Mexicanas antes de llegar a Hollywood.
+com_02436_01424772196	Los niños tienen mucha imaginación
+com_02436_01437435136	¿Cuántas personas vas a invitar de día de campo?
+com_02436_01481723267	Oye, quiero invitar a unos profesores a cenar y los quiero impresionar.
+com_02436_01495259810	Por las tardes se escucha música en la Plaza.
+com_02436_01536053674	Necesito decirte algo.
+com_02436_01551657741	¿Y tienes alguna preferencia de comida?
+com_02436_01557457002	¿Qué está sucediendo en la política de Inglaterra?
+com_02436_01592401616	¿Y tienes algo en mente en cuestión de precio?
+com_02436_01592612232	Los hamster comen zanahorias
+com_02436_01602896541	¿Cuáles son los Museos internacionales tienen más arte Mexicano?
+com_02436_01631241974	El Llano en Llamas es un clásico de Juan Rulfo
+com_02436_01637300885	Solo quiero invitar a mi familia.
+com_02436_01637932024	Quiero darles a los niños algo más saludable.
+com_02436_01660799560	Voy a invitar a mis cinco profesores y a dos compañeros de la universidad.
+com_02436_01662096379	El pijama de rayas es azul
+com_02436_01673539870	¿Qué canales me recomiendas para ver las noticias?
+com_02436_01691014862	Mandame una lista de los mejores canales.
+com_02436_01693929920	Quiero que los niños vean algo que sea más adecuado a su edad y no sea tan violento.
+com_02436_01700073628	Necesito que me hagas un favor.
+com_02436_01701953209	¿Me puedes ayudar a buscar un coche nuevo?
+com_02436_01720644376	¿Qué fue lo hizo el presidente Trump cuando llegó a Puerto Rico?
+com_02436_01722010280	¿Cuánto dinero quieres en el regalo de cumpleaños?
+com_02436_01747023145	¿Cuántas personas vas a invitar a tu casa?
+com_02436_01747035301	¿Cuáles son los Museos más importantes donde tienen arte de Clemente Orozco?
+com_02436_01749892317	Necesito tu ayuda urgente.
+com_02436_01782899576	Si te duele mucho la cabeza puedes tomarte un té de manzanilla.
+com_02436_01784802557	La película me llegó al corazón
+com_02436_01785523117	¿Quién subió el mejor video?
+com_02436_01791466748	A mis hijos les gustan las cosas de acción.
+com_02436_01802765743	¿Cuáles son las noticias más recientes de terremoto?
+com_02436_01806933283	Tiene el tiempo contado
+com_02436_01809687779	¿Has pensado en darles un yogurt con frutas?
+com_02436_01818883100	Busca bolsas que cuesten entre tres mil y cinco mil pesos.
+com_02436_01823386991	¿De qué edades son tus hijos Alex?
+com_02436_01842668587	¿Es cierto que la popularidad del presidente está decayendo?
+com_02436_01851430084	Mandame un menú de los canales que recomiendas.
+com_02436_01869623559	¿Qué tal Alex, cómo están los niños?
+com_02436_01875507262	¿Cuánto dinero quieres gastar en tu vacación?
+com_02436_01884995837	Quiero cambiar mi coche porque tiene muchos problemas.
+com_02436_01898339882	¿Sabes quién fue Pablo Picasso?
+com_02436_01901126210	Me siento muy mareado y tengo mucho dolor.
+com_02436_01917765049	Al parecer Trump y la alcaldesa de Puerto Rico se enfrentaron en Twitter.
+com_02436_01948299491	La nave encalló en los arrecifes
+com_02436_01954460303	Los cabecillas de la banda huyeron a caballo
+com_02436_01968630762	¿Cuáles son los Museos más importantes donde tienen arte de Frida Kahlo?
+com_02436_01977736174	¿Sabes porqué se considera importante la estatua de la libertad?
+com_02436_02006692536	¿Cuáles son las noticias más recientes del fuego forestal?
+com_02436_02009666190	¿Sabes quién fue Frida Kahlo?
+com_02436_02031862691	Me interesa una bolsa de buena marca.
+com_02436_02044269016	¿Cuánto dinero quieres gastar en tu boda?
+com_02436_02048942909	Aquí puedo ver que tu carro ha necesitado una grúa más de tres veces este año.
+com_02436_02056980305	Oye, me ayudas a buscar una compañía de mudanzas que necesito contratar una.
+com_02436_02084517795	Quiero que sea su regalo sorpresa.
+com_02436_02121464262	Acabo de ver unas estadísticas impactantes.

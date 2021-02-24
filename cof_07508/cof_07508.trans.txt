@@ -1,0 +1,140 @@
+cof_07508_00087240777	Las reseñas de los críticos le muestran como una obra de arte
+cof_07508_00103207572	¿Me puedes repetir la información por favor?
+cof_07508_00105321934	Me han dicho que el director es medio intenso con los actores, que los procesos son bastante largos que jartera
+cof_07508_00125184234	Ésta atleta Rusa es un caso único, hace natación gimnasia, participa en ambas categorías, imagínate esa vaina.
+cof_07508_00132749970	Estoy muy motivada para meterme a jugar en un equipo de fútbol
+cof_07508_00168650579	Mira, esta computadora es ideal para tus necesidades personales y bueno lo del trabajo.
+cof_07508_00169610291	¿Me puedes enviar unas fotos de la piscina?
+cof_07508_00171427603	Estoy aquí con un amigo discutiendo sobre la carrera de Fórmula Uno
+cof_07508_00173291625	¿Ven, es un edificio muy alto?
+cof_07508_00188628396	Estoy aquí con una amiga cocinando pescado
+cof_07508_00215355223	Resérvame dos boletos por favor para la función de las nueve menos cuarto
+cof_07508_00255050231	Estoy aquí con un amigo discutiendo sobre el final de la Champions
+cof_07508_00261496546	Todo mundo se pelea, la pelea entre Rodrigo y Manuel también fue pactada, pactada
+cof_07508_00282547052	Ésta atleta Argentina es un caso único, hace atletismo y gimnasia y participa en ambas categorías
+cof_07508_00299917657	Usted va a disfrutar de una playa muy bonita, y con una vista increíble
+cof_07508_00303448147	Me llegó una invitación para un casting pero no conozco bien al director
+cof_07508_00313222697	¿Cuántos premios ha ganado?
+cof_07508_00327339592	¿Podrías preguntar todos los requerimientos que se necesitan para poder solicitar el examen?
+cof_07508_00337740045	Tu nunca has sido constante en mi vida
+cof_07508_00356846456	Es producto del programa Indio de entrenamiento científico
+cof_07508_00368807575	Estoy aquí con una amiga discutiendo sobre física cuántica
+cof_07508_00377265372	En mi sistema operativo hay una aplicación que puede bajar a su celular y que hace traducción simultánea
+cof_07508_00395570680	Ayer llovió mucho, y llegue muy tarde a la reunión
+cof_07508_00429493464	¿Cuál fue su última novela?
+cof_07508_00430253952	Ay, ¿Pero quieren o no quieren cenar en casa?
+cof_07508_00459744466	En mi próxima vida no quiero ser humano
+cof_07508_00468464739	¿Puedes ayudarme a meditar?
+cof_07508_00485343270	Estoy aquí con una amiga discutiendo sobre enfermedades mentales, enfermos todos.
+cof_07508_00543974103	Los zapatos se estropearon con esa lluvia tan tenaz de ayer
+cof_07508_00551691262	Estás muy cansado
+cof_07508_00567532553	Los requisitos para la escuela de cine es un examen en tres etapas, y una audición, imagínate
+cof_07508_00601150701	¿Me puedes enviar unas fotos de el?
+cof_07508_00622433330	Ésta atleta Española es un caso único, hace atletismo, levantamiento de pesas y participa en ambas categorías, imagínate.
+cof_07508_00634541673	Las olimpiadas comenzaron con los Griegos en la ciudad de Creta
+cof_07508_00636898604	¿En qué calle está la casa?
+cof_07508_00643708605	Lo principal de este restaurante es que tiene un amplio menú
+cof_07508_00709700075	Los niños tienen mucha imaginación
+cof_07508_00715227214	La granizada destruyó toda la plantación de lechuga
+cof_07508_00770237145	Las salas con pantallas de tercera dimensión tienen un costo de noventa y cinco dólares
+cof_07508_00781944679	¿Te gustan los chocolates?
+cof_07508_00799890216	¿Hay algún examen de admisión?
+cof_07508_00804768598	El siguiente semestre quiero empezar a estudiar la licenciatura en cine
+cof_07508_00804821390	Los corazones de pollo son una delicia
+cof_07508_00832122358	Ven envíame una película que te guste de ese director
+cof_07508_00873143685	La ciudad es bellísima y tan alegre
+cof_07508_00890624714	La pelea entre Pedro y Juan fue pactada
+cof_07508_00898752778	Resérvame siete boletos por favor para la sesión de las cinco de la tarde
+cof_07508_00900119116	¿Cuáles son las principales diferencias?
+cof_07508_00911754509	¿podrías verificar quién ganó la carrera de fórmula uno en México el año pasado?
+cof_07508_00924009237	Resérvame nueve boletos por favor para la sesión de las once y veinte de la mañana
+cof_07508_00929757083	Resérvame cinco boletos por favor para la función de las once y veinte
+cof_07508_00942130171	No tengo ni idea de como cambiar una rueda, no se si puedas pedir asistencia o me puedes ayudar por fa
+cof_07508_00947563532	Estoy aquí con una amigo cocinando comida Tailandesa
+cof_07508_00949572280	¿Tú sabes si ha hecho este tipo de obras artísticas en otros países?
+cof_07508_00977546862	Por las tardes se escucha música en la Plaza.
+cof_07508_00977602403	¿Me puedes enviar unas fotos del estadio de fútbol?
+cof_07508_01008243787	Las reseñas de los críticos la muestran como una película fallida
+cof_07508_01029709679	¿Ven, me gustaría saber cuales son los requisitos para formar parte de este club? Por fa
+cof_07508_01031465829	El problema acá es que yo no quiero lavar los platos
+cof_07508_01073790785	No te entiendo nada
+cof_07508_01082464254	¿Cuántas medallas ha ganado?
+cof_07508_01117685785	¿Me puedes conseguir un analgésico?
+cof_07508_01124241216	Estoy aquí con una amiga cocinando carne
+cof_07508_01137976987	La pelea entre Márquez y el Canelo Alvarez fue pactada
+cof_07508_01143043932	Resérvame seis boletos por favor para la función de las doce y diez
+cof_07508_01148110279	Estoy aquí con una amiga cocinando arroz
+cof_07508_01183638133	¿En cuántos juegos africanos ha participado?
+cof_07508_01199089128	Los hamsters comen zanahorias
+cof_07508_01211717771	Ven, tenemos que ponernos de acuerdo
+cof_07508_01212163900	La oscuridad del pozo era obscena por naturaleza
+cof_07508_01230133808	¿Me puedes enviar unas imágenes de tu perro?
+cof_07508_01251013219	¿En cuántos juegos asiáticos ha participado?
+cof_07508_01261683511	Buenos días Mariana, ¿ven, necesito información de mis tres cuentas bancarias?
+cof_07508_01265567900	En este momento estoy enviando a sus mails unos links de unas meditaciones en YouTube
+cof_07508_01275049831	¿Qué programas de televisión ven los habitantes de Monterrey?
+cof_07508_01295118054	Primero que nada vamos a hacer un ejercicio de respiración todos
+cof_07508_01296321661	¿Ven, quieres que adquiera algún tipo de boleto o reservación?
+cof_07508_01309769174	Consigueme también datos de su estadio de fútbol por favor
+cof_07508_01314413758	¿En qué piso esta el apartamento?
+cof_07508_01316906176	La nave cayó en los arrecifes
+cof_07508_01329656324	Los cabecillas de la banda huyeron a caballo
+cof_07508_01346041869	¿Me puedes enviar unas fotos de la casa?
+cof_07508_01349382433	Estoy aquí con una amiga discutiendo sobre la exposición de pintura
+cof_07508_01354259712	¿Hay alguna teoría de que los crucigramas puedan ayudar a la vida sentimental?
+cof_07508_01373196593	Esa información no está del todo verificada
+cof_07508_01373668186	Necesito por favor que busques que transporte usan los habitantes de Monterrey para ir a su trabajo
+cof_07508_01393263848	¿Cuál es el periódico que más se lee en ésta zona?
+cof_07508_01418754224	Tengo tres opciones, la primera les va a encantar, lo sé
+cof_07508_01432323661	Tengo muchísimas ganas de ver una película
+cof_07508_01449382303	Esos departamentos no aceptan mascotas, puedes creerlo
+cof_07508_01466605658	Estoy aquí con un amigo discutiendo sobre el encuentro de boxeo
+cof_07508_01471764896	¿Cuál es su presupuesto señor?
+cof_07508_01472466995	¿Oye, cuál es la estación de metro más cercana?
+cof_07508_01501180569	Te quiero hacer una pregunta
+cof_07508_01504550443	Resérvame cuatro boletos por favor para la función de las diez y media
+cof_07508_01506708299	La mermelada de zarzamora es muy fácil de hacer
+cof_07508_01535428661	El Llano en Llamas es un clásico de Juan Rulfo
+cof_07508_01540764893	Les envío las reservaciones a su correo
+cof_07508_01560008305	Es una gran ventaja tener una amiga mayor
+cof_07508_01585892491	Las salas Imax tienen un costo de ciento diez pesos
+cof_07508_01600957481	Resérvame ocho boletos por favor para la sesión de las nueve de la noche
+cof_07508_01601808212	¿Quieres que revise tu nómina y los depósitos que han hecho en el último mes?
+cof_07508_01612943812	Tienes el tiempo contado
+cof_07508_01618538571	Tengo muchas ganas de hacer ejercicio
+cof_07508_01625806143	En esos tiempos los Griegos imitaban a los dioses del Olimpo y cargaban piedras desde la playa a una plaza central
+cof_07508_01657429402	Estoy por mudarme y quiero buscar un nuevo departamento donde acepten mascotas
+cof_07508_01691419867	Hay nuevos canales de audio en cada una de las salas de cine donde cada quien puede escuchar la película según su acento, imagínate, genial ¿no?
+cof_07508_01697465404	Quiero comprar una computadora y quiero que me ayudes a hacer un pedido
+cof_07508_01725797680	¿Tengo que pasar por alguna prueba?
+cof_07508_01745730283	¿Quiero saber la información nutricional que tiene una rebanada de pizza?
+cof_07508_01762097048	El caballo está amarrado
+cof_07508_01812754150	La pronunciación del francés es difícil
+cof_07508_01820985124	Este artista de performance, se dejó golpear por treinta personas en Alemania para comprobar su nivel de dolor
+cof_07508_01821050731	¿Cuántos años tiene el último campeón de fórmula uno?
+cof_07508_01828675636	El jeroglífico tiene un pez amarillo
+cof_07508_01829053538	Tenemos varias opciones, un departamento con dos habitaciones, y tres departamentos con tres habitaciones
+cof_07508_01852113336	¿En cuántos juegos mediterráneos ha participado?
+cof_07508_01857764242	¿El solo se dedica a ser director o también escribe sus guiones?
+cof_07508_01904038080	Estoy aquí con un amigo discutiendo sobre el partido de fútbol
+cof_07508_01906671381	Me parece muy interesante la información
+cof_07508_01910161746	Estoy aquí con una amiga cocinando comida India
+cof_07508_01913232675	La calle está llena de huecos
+cof_07508_01927698561	¿Me puedes enviar unas fotos de ella?
+cof_07508_01930657132	Quisiera recordar los tiempos de mi niñez
+cof_07508_01941750850	No supo descifrar las huellas
+cof_07508_01961225284	La pelea entre Miguel y Ramón fue pactada
+cof_07508_01966950012	Oye mira que estaba leyendo un articulo y ví que había un nuevo tratamiento para que te crezca el cabello
+cof_07508_01984447747	El pijama de rayas es azul
+cof_07508_02000817616	Tocar el xilófono es mi hobby favorito
+cof_07508_02039987186	Ya están todas las películas en tu correo, vale
+cof_07508_02046929876	Tenemos dos opciones de transporte, puedes ir en autobús, en metro, o en taxi
+cof_07508_02060582889	Se buena con las personas, ayúdalas, y nunca juzgues a los demás.
+cof_07508_02071516507	Ay ¿me puedes mandar unas imágenes de tu gato?
+cof_07508_02076147129	¿Puedes grabar un video y mandármelo a mi correo?
+cof_07508_02088003618	¿Quién subió el mejor video?
+cof_07508_02112209604	¿Queremos saber cómo va el ballet acuático en las olimpiadas?
+cof_07508_02112575657	Los sandwich están fríos
+cof_07508_02117733068	¿Cuántos deportes se practican en las olimpiadas y cuantos países participan?
+cof_07508_02123035735	Las tejas rojas del tejado no son de México, son de Texas
+cof_07508_02134334927	Resérvame dos boletos por favor para las ocho y veinticinco, ¿si?
